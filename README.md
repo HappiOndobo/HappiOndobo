@@ -48,12 +48,12 @@ Master's thesis project. An ML-driven framework that scores IoT network traffic 
 
 ## Skills
 
-**Languages:** Python, Java, JavaScript
+**Languages:** Python, JavaScript, PHP
 **ML / Data:** scikit-learn, pandas, numpy, imbalanced-learn, matplotlib
 **Security:** Risk-based security modeling, IoT security fundamentals, currently building hands-on skills via TryHackMe
 **Other:** Git/GitHub, SQL
 
-*(This list will grow — actively building out both the security and software engineering sides.)*
+
 
 ---
 
