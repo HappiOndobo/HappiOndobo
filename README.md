@@ -1,94 +1,70 @@
-# **Magic Portfolio by Once UI**
+<div align="center">
 
-View the [demo here](https://demo.magic-portfolio.com).
+# Happi Ondobo Steve
 
-![Magic Portfolio](https://demo.magic-portfolio.com/images/og/home.jpg)
+**Software Engineer | Information Security (Intelligent Security Technologies)**
 
+Open to Software Engineering and Cybersecurity roles in Moscow
 
-# **Getting started**
+📍 Moscow, Russia &nbsp;|&nbsp; 🎓 MSc Information Security, MTUCI (in progress) &nbsp;|&nbsp; 🇨🇲→🇷🇺
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](#)
 
-**1. Clone the repository**
-```
-git clone https://github.com/once-ui-system/magic-portfolio.git
-```
+</div>
 
-**2. Install dependencies**
-```
-npm install
-```
+---
 
-**3. Run dev server**
-```
-npm run dev
-```
+## About
 
-**4. Edit config**
-```
-src/app/resources/config
-```
+Software engineer trained in Cameroon (BSc Software Engineering, IAI), now completing a Master's in Information Security at MTUCI, Moscow — specializing in intelligent security technologies for computer systems (КИиБ).
 
-**5. Edit content**
-```
-src/app/resources/content
-```
+My background spans two phases: full-stack platform development during my bachelor's, and applied ML for security during my master's. Currently building toward roles that combine both — software engineering with a security/ML angle.
 
-**6. Create blog posts / projects**
-```
-Add a new .mdx file to src/app/blog/posts or src/app/work/projects
-```
+Languages: English (fluent) · French (fluent) · Russian (intermediate, learning)
 
-# **Documentation**
+---
 
-Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfolio/quick-start)
+## Featured Project
 
-# **Features**
+### 🛡️ [RBSF — Risk-Based Security Framework for IoT Devices](#)
+Master's thesis project. An ML-driven framework that scores IoT network traffic by risk level (Low/Medium/High/Critical) rather than just flagging attack vs. normal — combining a supervised Random Forest classifier, an unsupervised Isolation Forest anomaly detector, and a weighted risk-fusion formula.
 
-## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
+`Python` `scikit-learn` `imbalanced-learn` `pandas`
 
-## **SEO**
-- Automatic open-graph and X image generation with next/og
-- Automatic schema and metadata generation based on the content file
+**Status:** Phase 1 (pipeline validated on synthetic data) complete — 98.5% accuracy, full evaluation suite. Phase 2 (validation on the real TON_IoT dataset) in progress.
 
-## **Design**
-- Responsive layout optimized for all screen sizes
-- Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+---
 
-## **Content**
-- Render sections conditionally based on the content file
-- Enable or disable pages for blog, work, gallery and about / CV
-- Generate and display social links automatically
-- Set up password protection for URLs
+## Earlier Projects (Bachelor's, Cameroon)
 
-## **Localization**
-- A localized version of Magic Portfolio is available with the next-intl library
-- To use localization, switch to the 'i18n' branch
+| Project | Description | Status |
+|---|---|---|
+| **MEDCERT** | Platform for issuing official artist certificates — case study, Cameroon | Code complete, pushing to GitHub soon |
+| **AgroBIZZ** | E-commerce platform for ordering and delivery of agricultural products | Code complete, pushing to GitHub soon |
+| **Zepythagore** | Education platform connecting students with professors — co-founding member during university (IAI-DEV Club), 2021. No longer actively involved. | [zepythagore.com](https://zepythagore.com) |
 
-# **Authors**
+---
 
-Connect with us on Threads or LinkedIn.
+## Skills
 
-Lorant Toth: [Threads](https://www.threads.net/@lorant.one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
-Zsofia Komaromi: [Threads](https://www.threads.net/@zsofia_kom), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+**Languages:** Python, Java, JavaScript
+**ML / Data:** scikit-learn, pandas, numpy, imbalanced-learn, matplotlib
+**Security:** Risk-based security modeling, IoT security fundamentals, currently building hands-on skills via TryHackMe
+**Other:** Git/GitHub, SQL
 
-Localization added by [François Hernandez](https://github.com/francoishernandez)
+*(This list will grow — actively building out both the security and software engineering sides.)*
 
-# **Get involved**
+---
 
-- Join the [Design Engineers Club on Discord](https://discord.com/invite/5EyAQ4eNdS) and share your portfolio with us!
-- Report a [bug](https://github.com/once-ui-system/magic-portfolio/issues/new?labels=bug&template=bug_report.md).
+## Currently
 
-# **License**
+- 🔭 Validating RBSF against the real TON_IoT dataset (Phase 2)
+- 📚 Building practical cybersecurity skills (TryHackMe, hands-on labs)
+- 🎯 Looking for software engineering or cybersecurity opportunities in Moscow
 
-Distributed under the CC BY-NC 4.0 License.
-- Commercial usage is not allowed.
-- Attribution is required.
-- You can extend the license to commercial use by purchasing a [Once UI Pro](https://once-ui.com/pricing) license.
+---
 
-See `LICENSE.txt` for more information.
-
-# **Deploy with Vercel**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%2Fdemo.magic-portfolio.com&demo-image=%2F%2Fraw.githubusercontent.com%2Fonce-ui-system%2Fmagic-portfolio%2Fmain%2Fpublic%2Fimages%2Fog%2Fhome.jpg)
+<div align="center">
+<sub>This profile reflects where I actually am — it'll keep growing as I do.</sub>
+</div>
