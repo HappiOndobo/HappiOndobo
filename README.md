@@ -4,7 +4,8 @@
 
 **Software Engineer | Information Security (Intelligent Security Technologies)**
 
-Open to Software Engineering and Cybersecurity roles in Moscow
+Open to Software Engineering and Cybersecurity roles
+
 
 📍 Moscow, Russia &nbsp;|&nbsp; 🎓 MSc Information Security, MTUCI (in progress) &nbsp;|&nbsp; 🇨🇲→🇷🇺
 
