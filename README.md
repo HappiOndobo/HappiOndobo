@@ -76,13 +76,25 @@ Interactive dashboard for unsupervised anomaly detection on any network traffic 
 
 ## 🧠 Skills
 
-**Languages:** Python · JavaScript · PHP
+**Programming Languages**
 
-**ML / Data:** scikit-learn · pandas · numpy · imbalanced-learn · matplotlib · Streamlit · Plotly
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,php&theme=dark" />
+</div>
 
-**Security:** Risk-based security modeling · IoT security · Anomaly detection · Currently building hands-on skills via TryHackMe
+**ML / Data Science**
 
-**Other:** Git / GitHub · SQL · FastAPI
+<div align="center">
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,numpy&theme=dark" />
+</div>
+
+**Tools & Deployment**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,fastapi,mysql,linux&theme=dark" />
+</div>
+
+**Security:** Risk-based security modeling · IoT security · Anomaly detection · TryHackMe (hands-on labs)
 
 ---
 
