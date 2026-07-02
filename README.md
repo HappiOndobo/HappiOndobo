@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=180&section=header&text=Happi%20Ondobo%20Steve&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20%26%20Information%20Security&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6C3483&amp;height=180&amp;section=header&amp;text=Happi%20Ondobo%20Steve&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20ML%20%26%20Information%20Security&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
@@ -79,19 +79,19 @@ Interactive dashboard for unsupervised anomaly detection on any network traffic 
 **Programming Languages**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,php&amp;theme=dark" />
 </div>
 
 **ML / Data Science**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,numpy&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,numpy&amp;theme=dark" />
 </div>
 
 **Tools & Deployment**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,fastapi,mysql,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,fastapi,mysql,linux&amp;theme=dark" />
 </div>
 
 **Security:** Risk-based security modeling · IoT security · Anomaly detection · TryHackMe (hands-on labs)
@@ -102,8 +102,8 @@ Interactive dashboard for unsupervised anomaly detection on any network traffic 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HappiOndobo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappiOndobo&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HappiOndobo&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappiOndobo&amp;layout=compact&amp;langs_count=6&amp;theme=midnight-purple&amp;hide_border=true"/>
 
 </div>
 
@@ -121,6 +121,6 @@ Interactive dashboard for unsupervised anomaly detection on any network traffic 
 
 <sub>This profile reflects where I actually am — it'll keep growing as I do.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6C3483&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
